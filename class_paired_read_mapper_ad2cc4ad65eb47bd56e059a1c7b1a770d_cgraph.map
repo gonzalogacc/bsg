@@ -1,0 +1,3 @@
+<map id="PairedReadMapper::process_reads_from_file" name="PairedReadMapper::process_reads_from_file">
+<area shape="rect" id="node2" href="$class_fastq_reader.html#abefbbb17cf49869ad60a4edfe785ad8a" title="Calls the file reader and places the fields from the file onto the FileRecord, the ID is set to the n..." alt="" coords="240,12,413,39"/>
+</map>

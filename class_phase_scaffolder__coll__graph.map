@@ -1,0 +1,9 @@
+<map id="PhaseScaffolder" name="PhaseScaffolder">
+<area shape="rect" id="node2" href="$class_paired_read_mapper.html" title="A mapper for different kinds of paired short reads (Illumina). " alt="" coords="1480,149,1613,176"/>
+<area shape="rect" id="node3" href="$class_sequence_graph.html" title="SequenceGraph" alt="" coords="1203,256,1317,283"/>
+<area shape="rect" id="node5" href="$class_node.html" title="Node" alt="" coords="416,291,469,317"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="184,383,264,409"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="6,375,133,417"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="385,159,501,185"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="374,225,511,266"/>
+</map>

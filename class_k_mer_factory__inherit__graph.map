@@ -1,0 +1,5 @@
+<map id="KMerFactory" name="KMerFactory">
+<area shape="rect" id="node2" href="$class_contig_block_factory.html" title="ContigBlockFactory\l\&lt; FileRecord \&gt;" alt="" coords="186,5,323,46"/>
+<area shape="rect" id="node3" href="$class_contig_link_factory.html" title="ContigLinkFactory\&lt;\l FileRecord \&gt;" alt="" coords="187,70,323,111"/>
+<area shape="rect" id="node4" href="$classkmer_i_d_x_factory.html" title="kmerIDXFactory\&lt; FileRecord \&gt;" alt="" coords="152,136,357,163"/>
+</map>
