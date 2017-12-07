@@ -108,8 +108,8 @@ std::vector<std::vector<sgNodeID_t >> SequenceGraph::find_bubbles(std::vector<sg
             std::vector<Link> links_uniq;
 
             for (auto link:links_n){
-                auto s = link.source > 0 ? link.source:-link.source;
-                auto d = link.dest > 0 ? link.dest:-link.dest;
+//                auto s = link.source > 0 ? link.source:-link.source;
+//                auto d = link.dest > 0 ? link.dest:-link.dest;
 
                 //std::cout << "source: " << oldnames[s] << " dest: " << oldnames[d] << std::endl;
                 if (links_set.find(link) == links_set.end()){
